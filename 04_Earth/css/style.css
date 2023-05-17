@@ -1,0 +1,83 @@
+@keyframes rotate {
+			0%{
+				top: 300px;
+				left: 680px;	
+				transform: rotate(0deg);				
+}
+			15%{
+				top: 300px;
+				left: 260px;
+				transform: rotate(54deg);
+			}
+			25%{
+				top: 300px;
+				left: 260px;
+				z-index: -1;
+				transform: rotate(90deg);
+			}
+			75%{
+				top: 300px;
+				left: 1150px;
+				z-index: -1;
+				transform: rotate(270deg);
+			}
+			85%{
+				top: 300px;
+				left: 1150px;
+				transform: rotate(306deg);
+			}
+			100%{
+				top: 300px;
+				left: 680px;	
+				transform: rotate(360deg);
+			}
+}
+
+p{
+	color: white;
+}
+
+.page {
+		  /* эти единицы измерения мы изучим чуть позже */
+width: 100vw;
+height: 100vh;
+background-image: url(https://raw.githubusercontent.com/matthewbryancurtis/aframe-star-system-component/HEAD/screenshot.png);
+display: flex;
+position: relative;
+z-index: -2;
+}
+
+.sun {
+width: 300px;
+height: 300px;
+/*background-image: url(https://cutewallpaper.org/21/sun-clipart-transparent-background/Sun-clipart-transparent-background-8-Clipart-Station.png);*/
+border: beige 3px solid;
+border-radius: 150px;
+background-size: cover;
+background-position: center;
+background-color: rgba(245, 245, 220, 1);
+margin: auto;
+}
+.earth {
+width: 400px;
+height: 400px;
+/*background-image: url(https://cdn.pixabay.com/photo/2019/07/24/18/58/earth-4360974_960_720.png);*/
+border: beige 3px solid;
+border-radius: 200px;
+background-size: 50px; 
+background-repeat: no-repeat;
+background-position: right top;
+background-color: rgba(147, 197, 114, 1);
+position: absolute;
+top: 50%;
+left: 50%;
+margin-top: -200px;
+margin-left: -200px;
+animation-name: rotate;
+animation-duration: 10s;
+animation-iteration-count: infinite;
+animation-timing-function: linear;
+}
+
+
+

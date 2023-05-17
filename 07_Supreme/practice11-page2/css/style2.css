@@ -1,0 +1,171 @@
+@import url(reset.css);
+@font-face {src: url(../font/SpaceMono-Regular.ttf);
+			font-family: Space Mono;
+}
+
+
+.header-container {
+	width: 287px;
+	background-color: red;
+	margin:50px auto;
+
+}
+
+p[class='supreme'] {
+font-family: 'Arial';
+font-style: italic;
+font-weight: 700;
+font-size: 60px;
+line-height: 69px;
+letter-spacing: -0.05em;
+color: white;
+margin-left: 20px;
+}
+
+p[class='date'] {
+font-family: 'Space Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color: black;
+position: relative;
+left: calc(50% - 265px/2);
+bottom: 25px;
+}
+
+
+.main-container {
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+}
+
+section {
+	width: 390px;
+}
+
+section[class='left']{
+	margin-right: 5px;
+}
+
+
+section[class='right']{
+	margin-left: 5px;
+}
+
+section p {
+	font-family: 'Space Mono';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 30px;
+	color: #000000
+}
+
+section.right p.second {
+	font-size: 25px;
+	line-height: 37px;
+	margin-top: 30px;
+}
+
+section.right p.third {
+	margin-top: 20px;
+}
+
+section.right a.fourth {
+	font-family: 'Space Mono';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 30px;
+	text-decoration: none;
+	background-color: red;
+	color: white;
+	display: block;
+	width: 90px;
+	margin-top: 20px;
+}
+
+.image-container {
+	width: 390px;
+	height: 260px;
+	background-image: url(../img/1.png);
+	background-repeat: no-repeat;
+}
+
+section.left p {
+	position: relative;
+	left: calc(50% - 80px/2);
+	top: 70px;
+}
+
+section.left a {
+	position: relative;
+	left: 245px;
+	top: 45px;
+}
+
+
+.footer-container {
+	height: 260px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+footer div a {
+	text-decoration: none;
+	color: black;
+	margin: 30px;
+	font-family: 'Space Mono';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+@media all and (max-width: 600px) {
+
+	header {
+		width: 80%;
+		margin: auto;
+	}
+
+	.page {
+		width: 80%px;
+		height: 896px;
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.main-container {
+		flex-wrap: wrap;
+	}
+
+	.footer-container {
+		flex-wrap: wrap;
+	}
+
+	section.right a.fourth {
+		background-color: green;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
