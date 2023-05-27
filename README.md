@@ -26,4 +26,4 @@ Chess (React + Typescript) - https://github.com/wctnz/chess-React-Typescript
 ## TypeScript 
 
 To do list (console only) - https://github.com/wctnz/to-do-Typescript    
-React-Typescript practice (Typing props, hooks, events, React router dom) - https:// github.com/wctnz/react-ts-practice/tree/master/react-ts  
+React-Typescript practice (Typing props, hooks, events, React router dom) - https://github.com/wctnz/react-ts-practice/tree/master/react-ts  
