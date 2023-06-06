@@ -4,11 +4,11 @@ main {
 	/* display: flex; */
 }
 
-.html-css, .react, .typescript {
+.html-css, .react, .typescript, .redux {
 	width: 300px;
 	line-height: 130%;
 	text-decoration: none;
-	margin: 30px auto;
+	margin: 50px auto;
 
 }
 
