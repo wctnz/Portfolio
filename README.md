@@ -27,3 +27,9 @@ Chess (React + Typescript) - https://github.com/wctnz/chess-React-Typescript
 
 To do list (console only) - https://github.com/wctnz/to-do-Typescript    
 React-Typescript practice (Typing props, hooks, events, React router dom) - https://github.com/wctnz/react-ts-practice/tree/master/react-ts  
+
+## Redux, Redux-Saga  
+
+Redux/Vanilla Javascript practice (not deployed) - https://github.com/wctnz/redux-javascript-practice   
+Redux-React practice - https://redux-react-practice.vercel.app/  
+Redux-saga practice - https://redux-saga-practice.vercel.app/   
