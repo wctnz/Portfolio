@@ -31,6 +31,6 @@ React-Typescript practice (Typing props, hooks, events, React router dom) - http
 ## Redux, Redux-Saga  
 
 Redux/Vanilla Javascript practice (not deployed) - https://github.com/wctnz/redux-javascript-practice   
-Redux-React practice - https://redux-react-practice.vercel.app/  
-Redux-saga practice - https://redux-saga-practice.vercel.app/  
-React-redux-typescript practice - https://react-redux-typescript-practice.vercel.app/   
+Redux-React practice - https://github.com/wctnz/redux-react-practice  
+Redux-saga practice - https://github.com/wctnz/redux-saga-practice  
+React-redux-typescript practice - https://github.com/wctnz/React-redux-typescript-practice  
