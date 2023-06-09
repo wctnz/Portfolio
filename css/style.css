@@ -23,11 +23,13 @@ h2 {
 	font-weight: bold;
 	margin-bottom: 20px;
 	border: 1px solid #f6faf3;
-	background-color: #f6faf3;
+	background-color: #edf5e8;
+	opacity: 0.8;
+	color: black;
 	border-radius: 25px; 
 	padding: 5px;
 	text-align: center;
-	line-height: 50px;
+	line-height: 100px;
 
 }
 
