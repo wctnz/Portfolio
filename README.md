@@ -21,7 +21,8 @@ Supreme - https://github.com/wctnz/Portfolio/tree/master/07_Supreme
 Online-shop - https://github.com/wctnz/online-shop1  
 Online-shop admin - https://github.com/wctnz/online-shop-admin  
 Rock Scissors Paper game - https://github.com/wctnz/rock-scissors-paper-game  
-Chess (React + Typescript) - https://github.com/wctnz/chess-React-Typescript  
+Chess (React + Typescript) - https://github.com/wctnz/chess-React-Typescript    
+React, Redux Toolkit query, TypeScript practice (github API) - https://github.com/wctnz/react-redux-toolkit-query-typescript-practice  
 
 ## TypeScript 
 
@@ -37,3 +38,4 @@ Redux-React practice - https://github.com/wctnz/redux-react-practice
 Redux-saga practice - https://github.com/wctnz/redux-saga-practice  
 React-redux-typescript practice - https://github.com/wctnz/React-redux-typescript-practice  
 Redux Toolkit, RTK query, TypeScript practice - https://github.com/wctnz/redux-toolkit-rtkquery-typescript-practice  
+React, Redux Toolkit query, TypeScript practice (github API) - https://github.com/wctnz/react-redux-toolkit-query-typescript-practice  
