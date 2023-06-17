@@ -18,24 +18,24 @@ Supreme - https://github.com/wctnz/Portfolio/tree/master/07_Supreme
 
 ## React  
 
-Online-shop - https://github.com/wctnz/online-shop1  
-Online-shop admin - https://github.com/wctnz/online-shop-admin  
-Rock Scissors Paper game - https://github.com/wctnz/rock-scissors-paper-game  
-Chess (React + Typescript) - https://github.com/wctnz/chess-React-Typescript    
-React, Redux Toolkit query, TypeScript practice (github API) - https://github.com/wctnz/react-redux-toolkit-query-typescript-practice  
+Онлайн магазин - https://github.com/wctnz/online-shop1  
+Онлайн магазин (для администратора) - https://github.com/wctnz/online-shop-admin  
+Камень Ножницы Бумага игра - https://github.com/wctnz/rock-scissors-paper-game  
+Шахматы (React/Typescript) - https://github.com/wctnz/chess-React-Typescript    
+React, Redux Toolkit, RTK query, TypeScript практика (github API) - https://github.com/wctnz/react-redux-toolkit-query-typescript-practice  
 
 ## TypeScript 
 
 To do list (console only) - https://github.com/wctnz/to-do-Typescript    
-React-Typescript practice (Typing props, hooks, events, React router dom) - https://github.com/wctnz/react-ts-practice/tree/master/react-ts  
-Redux with TypeScript - https://github.com/wctnz/React-redux-typescript-practice    
-Redux Toolkit with TypeScript - https://github.com/wctnz/redux-toolkit-rtkquery-typescript-practice  
+Типизация React (React/Typescript) - https://github.com/wctnz/react-ts-practice/tree/master/react-ts  
+Типизация Redux (Redux/TypeScript) - https://github.com/wctnz/React-redux-typescript-practice    
+Типизация Redux Toolkit, RTK query (Redux Toolkit/RTK query/TypeScript - не развернуто) - https://github.com/wctnz/redux-toolkit-rtkquery-typescript-practice  
 
 ## Redux, Redux-Saga  
 
-Redux/Vanilla Javascript practice (not deployed) - https://github.com/wctnz/redux-javascript-practice   
-Redux-React practice - https://github.com/wctnz/redux-react-practice  
-Redux-saga practice - https://github.com/wctnz/redux-saga-practice  
-React-redux-typescript practice - https://github.com/wctnz/React-redux-typescript-practice  
-Redux Toolkit, RTK query, TypeScript practice - https://github.com/wctnz/redux-toolkit-rtkquery-typescript-practice  
-React, Redux Toolkit query, TypeScript practice (github API) - https://github.com/wctnz/react-redux-toolkit-query-typescript-practice  
+Redux/Vanilla Javascript практика (not deployed) - https://github.com/wctnz/redux-javascript-practice   
+Redux-React практика - https://github.com/wctnz/redux-react-practice  
+Redux-saga практика - https://github.com/wctnz/redux-saga-practice  
+React-redux-typescript практика - https://github.com/wctnz/React-redux-typescript-practice  
+Redux Toolkit, RTK query, TypeScript практика - https://github.com/wctnz/redux-toolkit-rtkquery-typescript-practice  
+React, Redux Toolkit query, TypeScript практика (github API) - https://github.com/wctnz/react-redux-toolkit-query-typescript-practice  
