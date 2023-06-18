@@ -5,23 +5,26 @@ main {
 }
 
 .html-css, .react, .typescript, .redux {
-	width: 300px;
+	width: 1000px;
 	line-height: 130%;
 	text-decoration: none;
-	margin: 50px auto;
+	margin: 30px auto;
 
+}
+
+ol {
+	margin-left: 70px;
+	list-style: circle;
 }
 
 h1 {
 	text-align: center;
 	font-size: 1.5rem;
 	font-weight: bold;
-	margin: 20px 0 0 0;
 }
 
 h2 {
 	font-weight: bold;
-	margin-bottom: 20px;
 	border: 1px solid #f6faf3;
 	background-color: #edf5e8;
 	opacity: 0.8;
@@ -30,6 +33,8 @@ h2 {
 	padding: 5px;
 	text-align: center;
 	line-height: 100px;
+	width: 300px;
+	margin: 0 auto 40px;
 
 }
 
@@ -44,6 +49,6 @@ a:hover {
 	text-decoration: underline
 }
 
-p {
-	text-align: center;
+span {
+	font-weight: bold;
 }
