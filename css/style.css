@@ -4,7 +4,7 @@ main {
 	/* display: flex; */
 }
 
-.html-css, .react, .typescript, .redux, .webpack {
+.html-css, .react, .typescript, .redux, .webpack, .jest {
 	width: 1000px;
 	line-height: 130%;
 	text-decoration: none;
