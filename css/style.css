@@ -1,10 +1,10 @@
 @import url(reset.css);
 
-main {
-	/* display: flex; */
-}
+/* main {
+	display: flex;
+} */
 
-.html-css, .react, .typescript, .redux, .webpack, .тестирование {
+.html-css, .react, .typescript, .redux, .webpack, .testing, .vanilla-js {
 	width: 1000px;
 	line-height: 130%;
 	text-decoration: none;
