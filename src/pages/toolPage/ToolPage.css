@@ -1,0 +1,60 @@
+.container__cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30%, 1fr));
+  gap: 30px;
+}
+
+.card {
+  /* border: 0.5px solid black; */
+  max-width: 400px;
+  border-radius: 10px;
+  height: 300px;
+  background: #f3f5f7;
+  transition: all 0.3s;
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.card__stek {
+  display: flex;
+  gap: 10px;
+  transition: display 0.3s;
+}
+
+.card__stek img {
+  width: 35px;
+  object-fit: cover;
+  transition: all 0.3s;
+  opacity: 0;
+  transition: all 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 0.25rem 0.5em 0 rgba(0, 0, 0, 0.25),
+    0 0.4rem 1.25em 0 rgba(0, 0, 0, 0.15);
+}
+
+.card:hover .card__stek img {
+  display: flex;
+  transition: all 0.3s;
+  opacity: 1;
+}
+
+.buttonBack {
+  width: 40px;
+  height: 40px;
+  color: rgb(71, 68, 68);
+  cursor: pointer;
+}
+
+.toolPage__title {
+    padding: 10px 0;
+}
+
+.toolPage__title p {
+font-size: 24px;
+}

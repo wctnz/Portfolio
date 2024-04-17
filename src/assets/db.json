@@ -1,0 +1,571 @@
+[
+  {
+    "id": 1,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Калькулятор",
+    "desc": "Приложение Калькулятор на JavaScript.",
+    "appFunc": "Доступно сложение и вычетание",
+    "img": [
+      "/assets/images/projects/1/1.png",
+      "/assets/images/projects/1/2.png"
+    ],
+    "tool": "Javascript",
+    "toolLogo": "",
+    "urlProject": "https://calc-js-lac.vercel.app/",
+    "urlCode": "https://github.com/wctnz/calc-js",
+    "urlDesc": "",
+    "stek": [
+      "/assets/images/stek/Javascript.png",
+      "/assets/images/stek/Webpack.png"
+    ]
+  },
+  {
+    "id": 2,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Заметки",
+    "desc": "Приложение Заметки на JavaScript.",
+    "appFunc": "Вы можете добавлять и удалять заметки, отмечать как выполненную",
+    "img": [
+      "/assets/images/projects/2/1.png",
+      "/assets/images/projects/2/2.png"
+    ],
+    "tool": "Javascript",
+    "toolLogo": "",
+    "urlProject": "https://notes-js-wctnz.vercel.app/",
+    "urlCode": "https://github.com/wctnz/notes-js",
+    "urlDesc": "",
+    "stek": [
+      "/assets/images/stek/Javascript.png",
+      "/assets/images/stek/Webpack.png"
+    ]
+  },
+  {
+    "id": 3,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Часы",
+    "desc": "Приложение Часы на Javascript.",
+    "appFunc": "Вы можете изменять формат часов - оставить только дату, либо только время",
+    "img": [
+      "/assets/images/projects/3/1.png",
+      "/assets/images/projects/3/2.png",
+      "/assets/images/projects/3/3.png"
+    ],
+    "tool": "Javascript",
+    "toolLogo": "",
+    "urlProject": "https://watch-js-gilt.vercel.app/",
+    "urlCode": "https://github.com/wctnz/watch-js",
+    "urlDesc": "",
+    "stek": [
+      "/assets/images/stek/Javascript.png",
+      "/assets/images/stek/Webpack.png"
+    ]
+  },
+  {
+    "id": 4,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Загрузка данных с сервера + фильтрация",
+    "desc": "",
+    "appFunc": "При первой загрузке приложения отправляется запрос на сервер и отображаются данные. Вы можете вводить в поле значение, по которому будет фильтроваться ответ",
+    "img": [
+      "/assets/images/projects/4/1.png",
+      "/assets/images/projects/4/2.png",
+      "/assets/images/projects/4/3.png"
+    ],
+    "tool": "Javascript",
+    "toolLogo": "",
+    "urlProject": "https://fetch-users-filtered-list-js.vercel.app/",
+    "urlCode": "https://github.com/wctnz/fetchUsers-filteredList-js",
+    "urlDesc": "",
+    "stek": [
+      "/assets/images/stek/Javascript.png",
+      "/assets/images/stek/Webpack.png"
+    ]
+  },
+  {
+    "id": 5,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Реакт практика 1 (сортировка, поиск, модальное окно, пагинация, роутинг, динамическая загрузка ленты)",
+    "desc": "",
+    "appFunc": "Приложение состоит из нескольких страниц — Главная, О проекте, страница с постами, страница для авторизации, страница с ошибкой. При первой загрузке приложения пользователь попадает на страницу для авторизации. После авторизации ему становятся доступны остальные страницы. На странице с постами выводятся данные c сервера в виде списка постов. Для каждого поста доступна отдельная страница. В приложении реализованы сортировка, поиск, модальное окно, постраничный вывод (пагинация), постраничная навигация, в том числе динамическая, динамическая загрузка ленты. Стили реализованы через css модули",
+    "img": [
+      "/assets/images/projects/5/1.png",
+      "/assets/images/projects/5/2.png",
+      "/assets/images/projects/5/3.png",
+      "/assets/images/projects/5/4.png",
+      "/assets/images/projects/5/5.png"
+    ],
+    "tool": "React",
+    "toolLogo": "",
+    "urlProject": "https://react-jsonplaceholder-practice.vercel.app/posts",
+    "urlCode": "https://github.com/wctnz/react-jsonplaceholder-practice",
+    "urlDesc": "https://github.com/wctnz/react-jsonplaceholder-practice/blob/master/README.md",
+    "stek": ["/assets/images/stek/React.png"]
+  },
+  {
+    "id": 6,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Интернет магазин - Пицца",
+    "desc": "",
+    "appFunc": "В приложении две страницы - главная и страница корзины. Вы можете выбирать диаметр пиццы, тип теста, сортировать значения, добавлять позиции в корзину",
+    "img": [
+      "/assets/images/projects/6/1.png",
+      "/assets/images/projects/6/2.png",
+      "/assets/images/projects/6/3.png",
+      "/assets/images/projects/6/4.png",
+      "/assets/images/projects/6/5.png",
+      "/assets/images/projects/6/6.png"
+    ],
+    "tool": "React",
+    "toolLogo": "",
+    "urlProject": "https://react-pizza-no-json-server.vercel.app/",
+    "urlCode": "https://github.com/wctnz/react-pizza-no-json-server",
+    "urlDesc": "https://github.com/wctnz/react-jsonplaceholder-practice/blob/master/README.md",
+    "stek": ["/assets/images/stek/React.png", "/assets/images/stek/Redux.png"]
+  },
+  {
+    "id": 7,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Интернет магазин - Мебель",
+    "desc": "В приложении 4 страницы - главная, страница категории товаров, страница отдельного товара, страница корзины. Чтобы перейти на страницу категории товаров нужно нажать соответствующую ссылку в меню навигации в верхней части сайта. Чтобы перейти на страницу отдельного товара нажмите на карточку товара. Вы можете добавлять товары в корзину.",
+    "appFunc": "",
+    "img": [
+      "/assets/images/projects/7/1.png",
+      "/assets/images/projects/7/2.png",
+      "/assets/images/projects/7/3.png",
+      "/assets/images/projects/7/4.png",
+      "/assets/images/projects/7/5.png",
+      "/assets/images/projects/7/6.png"
+    ],
+    "tool": "React",
+    "toolLogo": "",
+    "urlProject": "https://test-avion.vercel.app/",
+    "urlCode": "https://github.com/wctnz/test-avion",
+    "urlDesc": "https://github.com/wctnz/test-avion/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png",
+      "/assets/images/stek/Redux.png"
+    ]
+  },
+  {
+    "id": 8,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Github API",
+    "desc": "Данные берутся из публичного API гитхаба. API настроен с помощью RTK query. C помощью Redux Toolkit в приложении создано состояние, работа с которым описана с помощью синтаксиса слайсов.",
+    "appFunc": "В инпуте вводится имя пользователя Github. В дропдауне отображаются пользователи, соответствующие введенному имени. При клике на имя выводится список его репозиториев. Каждая карточка с репозиторием имеет кнопки Add и Remove, по клику на которые репозиторий добавляется или удаляется из `избранного`. Список избранных репозиториев отображается на странице Favourites.",
+    "img": [
+      "/assets/images/projects/8/1.png",
+      "/assets/images/projects/8/2.png",
+      "/assets/images/projects/8/3.png"
+    ],
+    "tool": "React",
+    "toolLogo": "",
+    "urlProject": "https://react-redux-toolkit-query-typescript-practice.vercel.app/",
+    "urlCode": "https://github.com/wctnz/react-redux-toolkit-query-typescript-practice",
+    "urlDesc": "https://github.com/wctnz/react-redux-toolkit-query-typescript-practice/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png",
+      "/assets/images/stek/Redux.png"
+    ]
+  },
+  {
+    "id": 9,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Регистрация + авторизация (Firebase)",
+    "desc": "",
+    "appFunc": "При первой загрузке вы попадаете на форму авторизации, где необходимо ввести логин и пароль. В случае, если у вас нет аккаунта вы можете перейти на страницу регистрации и зарегистрироваться. После авторизации вы попадаете на страницу с другими пользователями. Вы можете поставить лайк пользователю и перейти на его страницу.",
+    "img": [
+      "/assets/images/projects/9/2.png",
+      "/assets/images/projects/9/1.png",
+      "/assets/images/projects/9/3.png",
+      "/assets/images/projects/9/4.png"
+    ],
+    "tool": "React",
+    "toolLogo": "",
+    "urlProject": "https://test-authorization-react-typescript-redux-react-router.vercel.app/",
+    "urlCode": "https://github.com/wctnz/test-authorization-React-Typescript-Redux-ReactRouter",
+    "urlDesc": "",
+    "stek": [
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png",
+      "/assets/images/stek/Redux.png"
+    ]
+  },
+  {
+    "id": 10,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Goole books API",
+    "desc": "Данные берутся из публичного API google. API настроен с помощью RTK query.",
+    "appFunc": "Запрос выполняется по значению, которое вы вводите в строку поиска, доступна сортировка значений, по клику на карточку отображается модальное окно с информацией по элементу.",
+    "img": [
+      "/assets/images/projects/10/1.png",
+      "/assets/images/projects/10/2.png",
+      "/assets/images/projects/10/3.png",
+      "/assets/images/projects/10/4.png"
+    ],
+    "tool": "React",
+    "toolLogo": "",
+    "urlProject": "https://google-books-api-psi.vercel.app/",
+    "urlCode": "https://github.com/wctnz/google-books-api",
+    "urlDesc": "",
+    "stek": [
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png",
+      "/assets/images/stek/Redux.png"
+    ]
+  },
+  {
+    "id": 11,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Todo app",
+    "desc": "",
+    "appFunc": "В приложение доступно добавление, удаление todo, изменение статуса выполнения, фильтрация по условию",
+    "img": [
+      "/assets/images/projects/11/1.png",
+      "/assets/images/projects/11/2.png"
+    ],
+    "tool": "React",
+    "toolLogo": "",
+    "urlProject": "https://todoapp-react-ts-jest.vercel.app/",
+    "urlCode": "https://github.com/wctnz/todoapp-react-ts-jest",
+    "urlDesc": "",
+    "stek": [
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png",
+      "/assets/images/stek/Jest.png"
+    ]
+  },
+  {
+    "id": 12,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Drag and Drop (Trello)",
+    "desc": "Drag and Drop доска задач, некий аналог trello.",
+    "appFunc": "`Зацепив` элемент вы можете перетащить его из одной колонки в другую",
+    "img": [
+      "/assets/images/projects/12/1.png",
+      "/assets/images/projects/12/2.png"
+    ],
+    "tool": "React",
+    "toolLogo": "",
+    "urlProject": "https://drag-and-drop-react-trello.vercel.app/",
+    "urlCode": "https://github.com/wctnz/drag-and-drop-react-trello",
+    "urlDesc": "",
+    "stek": ["/assets/images/stek/React.png"]
+  },
+  {
+    "id": 13,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Шахматы",
+    "desc": "Приложение выполненно с помощью ООП и функциональных компонентов.",
+    "appFunc": "Реализована логика перемещения фигур, определения доступных ячеек для хода, передачи хода, сохранения съеденных фигур, перезагрузки игры.",
+    "img": [
+      "/assets/images/projects/13/1.png",
+      "/assets/images/projects/13/2.png",
+      "/assets/images/projects/13/3.png",
+      "/assets/images/projects/13/4.png"
+    ],
+    "tool": "React",
+    "toolLogo": "",
+    "urlProject": "https://chess-react-typescript.vercel.app",
+    "urlCode": "https://github.com/wctnz/chess-React-Typescript",
+    "urlDesc": "https://github.com/wctnz/chess-React-Typescript/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/React.png",
+      "/assets/images/stek/TypeScript.png"
+    ]
+  },
+  {
+    "id": 14,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "To do list (не развернуто)",
+    "desc": "В приложении типизированы функции, переопределен глобальный тип для метода Object.entries.",
+    "appFunc": "To Do List. Пользователь может добавлять новые задачи в список (createTask), изменять поля существующих задач(updateTask), в том числе поле isComplete (toggleIsCompleteTask), а также удалять задачи из списка (removeTask).",
+    "img": ["/assets/images/projects/14/2.png"],
+    "tool": "Typescript",
+    "toolLogo": "",
+    "urlProject": "",
+    "urlCode": "https://github.com/wctnz/to-do-Typescript",
+    "urlDesc": "https://github.com/wctnz/to-do-Typescript/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png"
+    ]
+  },
+  {
+    "id": 15,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Типизация React",
+    "desc": "В приложении типизированы компоненты, пропсы компонентов, хуки, события Реакта, тело ответов от сервера и React router dom.",
+    "appFunc": "В ответ на запрос сервер отправляет список пользователей и список дел. При клику на пользователя открывается его `личная страница`",
+    "img": [
+      "/assets/images/projects/15/1.png",
+      "/assets/images/projects/15/2.png",
+      "/assets/images/projects/15/3.png",
+      "/assets/images/projects/15/4.png"
+    ],
+    "tool": "Typescript",
+    "toolLogo": "",
+    "urlProject": "https://react-typescript-practice.vercel.app/",
+    "urlCode": "https://github.com/wctnz/react-typescript-practice",
+    "urlDesc": "https://github.com/wctnz/react-typescript-practice/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png"
+    ]
+  },
+  {
+    "id": 16,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Типизация Redux",
+    "desc": "В приложении типизированы стейты, экшены, редюсеры, кастомные хуки (useTypedSelector).",
+    "appFunc": "В ответ на запрос сервер возвращает список пользователей и список дел.",
+    "img": [
+      "/assets/images/projects/16/1.png",
+      "/assets/images/projects/16/2.png"
+    ],
+    "tool": "Typescript",
+    "toolLogo": "",
+    "urlProject": "https://react-redux-typescript-practice.vercel.app/",
+    "urlCode": "https://github.com/wctnz/React-redux-typescript-practice",
+    "urlDesc": "https://github.com/wctnz/React-redux-typescript-practice/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png",
+      "/assets/images/stek/Redux.png"
+    ]
+  },
+  {
+    "id": 17,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Типизация Redux Toolkit, RTK query (не развернуто)",
+    "desc": "В приложении типизованы стейт, экшены, редюсеры (в слайле), кастомные хуки (useAppDispatch, useAppSelector), запросы на сервер (query параметры) и тело ответа от сервера.",
+    "appFunc": "По запросу с сервера вовзращается список объектов. С помощью RTK query настроен API, который позволяет добавлять, обновлять и удалять объекты из списка. При клике на тело карточки, вызывается prompt, введенное значение будет использовано для обновления обекта.",
+    "img": [],
+    "tool": "Typescript",
+    "toolLogo": "",
+    "urlProject": "",
+    "urlCode": "https://github.com/wctnz/redux-toolkit-rtkquery-typescript-practice",
+    "urlDesc": "https://github.com/wctnz/redux-toolkit-rtkquery-typescript-practice/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png",
+      "/assets/images/stek/Redux.png"
+    ]
+  },
+  {
+    "id": 18,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Интернет магазин - Пицца",
+    "desc": "В приложении использован классический Redux, без слайсов. Реализованы 3 редюсера - pizzas, cart, filters.",
+    "appFunc": "В приложении две страницы - главная и страница корзины. Вы можете выбирать диаметр пиццы, тип теста, сортировать значения, добавлять позиции в корзину.",
+    "img": [
+      "/assets/images/projects/6/1.png",
+      "/assets/images/projects/6/2.png",
+      "/assets/images/projects/6/3.png",
+      "/assets/images/projects/6/4.png",
+      "/assets/images/projects/6/5.png",
+      "/assets/images/projects/6/6.png"
+    ],
+    "tool": "Redux",
+    "toolLogo": "",
+    "urlProject": "https://react-pizza-no-json-server.vercel.app/",
+    "urlCode": "https://github.com/wctnz/react-pizza-no-json-server",
+    "urlDesc": "https://github.com/wctnz/react-jsonplaceholder-practice/blob/master/README.md",
+    "stek": ["/assets/images/stek/React.png", "/assets/images/stek/Redux.png"]
+  },
+  {
+    "id": 19,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Реализация собственного Redux на Javascript (не развернуто)",
+    "desc": "Реализован собственный Redux на чистом Javascript. В частности функция createStore c методами dispatch, subscribe, getState, функция reducer. Разобраны концепции Redux: store, dispatch, action, reducer, combineReducers работа с асинхронным кодом с помощью middleware и объекта thunk, которые позволяют создавать асинхронные экшен-криэйторы, Redux devtools. Считается хорошей практикой выносить состояние из самого компонента. Во первых потому что компонентам со своими локальными состояниями сложно взаимодействовать друг с другом. Во вторых состояние в компоненте может затруднять доработку, изменение приложения, например если верстка влияет на изменение состояния. Redux выполняет роль контейнера для состояния. Позволяет вынести состояние приложения из компонента в отдельный слой (store), изменяет состояние с помощью системы редюсеров и экшенов. Компонент отслеживает изменение состояния в store (получает уведомление из store) и обновляется при изменении состояния.",
+    "appFunc": "",
+    "img": [],
+    "tool": "Redux",
+    "toolLogo": "",
+    "urlProject": "",
+    "urlCode": "https://github.com/wctnz/redux-javascript-practice",
+    "urlDesc": "https://github.com/wctnz/redux-javascript-practice/blob/master/README.md",
+    "stek": ["/assets/images/stek/Javascript.png"]
+  },
+  {
+    "id": 20,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Redux-React практика",
+    "desc": "В проекте представлены базовые возможности Redux - синхронное (изменение счетчика) и асинхронное (получение списка пользователей от сервера) изменение состояния. Рассмотрена работа с состоянием в виде массива. Разобраны концепции Redux: store, dispatch, action, reducer, combineReducers, Provider, работа с асинхронным кодом с помощью middleware и объекта thunk, которые позволяют создавать асинхронные экшен-криэйторы, composeWithDevtools. Разобраны особенности использования Redux в React: хук useDispatch, хук useSelector. Считается хорошей практикой выносить состояние из самого компонента. Во первых потому что компонентам со своими локальными состояниями сложно взаимодействовать друг с другом. Во вторых состояние в компоненте может затруднять доработку, изменение приложения, например если верстка влияет на изменение состояния. Redux выполняет роль контейнера для состояния. Позволяет вынести состояние приложения из компонента в отдельный слой (store), изменяет состояние с помощью системы редюсеров и экшенов. Компонент отслеживает изменение состояния в store (получает уведомление из store) и обновляется при изменении состояния.",
+    "appFunc": "В приложении созданы два состояния - Счетчик и Пользователи. При клике на кнопки Пополнить счет, Снять со счета, Добавить клиента вызывается функция prompt, состояние меняется синхронно с учетом введенных значений. При клике на кнопку Получить клиентов состояние меняется асинхронно - отправляется запрос и сервер возвращает массив пользователей, которые отрисовываются в приложении. При клике на карточку клиента, он удаляется.",
+    "img": [
+      "/assets/images/projects/20/1.png",
+      "/assets/images/projects/20/2.png",
+      "/assets/images/projects/20/3.png",
+      "/assets/images/projects/20/4.png",
+      "/assets/images/projects/20/5.png",
+      "/assets/images/projects/20/6.png"
+    ],
+    "tool": "Redux",
+    "toolLogo": "",
+    "urlProject": "https://redux-react-practice.vercel.app/",
+    "urlCode": "https://github.com/wctnz/redux-react-practice",
+    "urlDesc": "https://github.com/wctnz/redux-react-practice/blob/master/README.md",
+    "stek": ["/assets/images/stek/React.png", "/assets/images/stek/Redux.png"]
+  },
+  {
+    "id": 21,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Redux-saga практика",
+    "desc": "Redux-Saga это middleware, который позволяет изменять состояние приложения с помощью асинхронный действий. Разобраны понятия Redux-Saga: workers, watchers, effects, функции-генераторы. Воркер это функция-генератор, внутри воркера выполняется асинхронная логика. Вотчер это функция-генератор, в вотчерах с помощью эффектов указываются тип экшена и воркер, который будет отрабатывать, когда будет отрабатывать экшен с указанным типом. Эффекты это набор встроенных в Redux-Safa функций, которые помогают делать запросы, делать диспач, следить за воркерами.",
+    "appFunc": "Кнопки Инкремент и Декремент асинхронно изменяют состояние приложения - увеличивают и уменьшают состоние count. Кнопка Получить юзеров асинхронно изменяют состояние приложения users - делает запрос на сервер и отривовывает ответ от сервера в виде массива пользователей.",
+    "img": [
+      "/assets/images/projects/21/1.png",
+      "/assets/images/projects/21/2.png",
+      "/assets/images/projects/21/3.png"
+    ],
+    "tool": "Redux",
+    "toolLogo": "",
+    "urlProject": "https://redux-saga-practice.vercel.app/",
+    "urlCode": "https://github.com/wctnz/redux-saga-practice",
+    "urlDesc": "https://github.com/wctnz/redux-saga-practice/blob/master/README.md",
+    "stek": ["/assets/images/stek/React.png", "/assets/images/stek/Redux.png"]
+  },
+  {
+    "id": 22,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "React-redux-typescript практика",
+    "desc": "В приложении использован классический Redux, без слайсов. Реализованы 2 редюсера - users, todos. В проекте рассмотрены основные концепции Redux: экшены, редюсеры, кастомные хуки (useTypedSelector).",
+    "appFunc": "В ответ на запрос сервер возвращает список пользователей и список дел.",
+    "img": [
+      "/assets/images/projects/16/1.png",
+      "/assets/images/projects/16/2.png"
+    ],
+    "tool": "Redux",
+    "toolLogo": "",
+    "urlProject": "https://react-redux-typescript-practice.vercel.app/",
+    "urlCode": "https://github.com/wctnz/React-redux-typescript-practice",
+    "urlDesc": "https://github.com/wctnz/React-redux-typescript-practice/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png",
+      "/assets/images/stek/Redux.png"
+    ]
+  },
+  {
+    "id": 23,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "React, Redux Toolkit, RTK query, TypeScript практика (не развернуто)",
+    "desc": "Приложение делает запрос на сервер. В первом случае с помощью Redux Toolkit, во втором случае с помощью RTK query. С помощью RTK query настроен API, который позволяет добавлять, обновлять и удалять объекты из списка. Разобраны концепции Redux Toolkit: configureStore, createSlice, dispatch, provider, createAsyncThunk. Асинхронные экшены создаются с помощью meddleware thunk, по умолчанию встроенного в Redux Toolkit. Слайсы упрощают работу с кодом, автоматически создавая для нас экшены и экшен-криейторы. В Redux Toolkit в редюсере можно изменять конкретное поле у состояния напрямую, в отличие от Redux, где состояние является иммутабельным и редюсеры это чистые функции. Разобраны особенности использования Redux Toolkit в React: хук useDispatch, хук useSelector. Разобраны концепции RTK query: createApi, fetchBaseQuery, методы query и mutation, автоматически сгенерированные хуки, которые генерируются на основании эндпоинтов которые мы описываем в createApi, refetch, pollingInterval. RTK query - дополнительный модуль Redux Toolkit. RTK query позволяет настроить API, который будет делать запрос по отределенному эндпоинту, с определенным методом и параметрами. RTK query автоматически сгенерирует хук, с помощью которого можно будет получать данные - тело ответа от сервера, возможные ошибки и индикацию загрузки. RTK query будет хешировать ответ сервера и своевременно обновлять, если это небоходимо. И если данные из ответа используются где то еще, запрос не будет дублироваться, а данные возьмутся из хеша.",
+    "appFunc": "По запросу с сервера вовзращается список объектов. С помощью RTK query настроен API, который позволяет добавлять, обновлять и удалять объекты из списка. При клике на тело карточки, вызывается prompt, введенное значение будет использовано для обновления обекта.",
+    "img": [],
+    "tool": "Redux",
+    "toolLogo": "",
+    "urlProject": "",
+    "urlCode": "https://github.com/wctnz/redux-toolkit-rtkquery-typescript-practice",
+    "urlDesc": "https://github.com/wctnz/redux-toolkit-rtkquery-typescript-practice/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png",
+      "/assets/images/stek/Redux.png"
+    ]
+  },
+  {
+    "id": 24,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "React, Redux Toolkit, RTK query практика (github API)",
+    "desc": "Данные берутся из публичного API гитхаба. API настроен с помощью RTK query. C помощью Redux Toolkit в приложении создано состояние, работа с которым описана с помощью синтаксиса слайсов.",
+    "appFunc": "В инпуте вводится имя пользователя Github. В дропдауне отображаются пользователи, соответствующие введенному имени. При клике на имя выводится список его репозиториев. Каждая карточка с репозиторием имеет кнопки Add и Remove, по клику на которые репозиторий добавляется или удаляется из `избранного`. Список избранных репозиториев отображается на странице Favourites.",
+    "img": [
+      "/assets/images/projects/8/1.png",
+      "/assets/images/projects/8/2.png",
+      "/assets/images/projects/8/3.png"
+    ],
+    "tool": "Redux",
+    "toolLogo": "",
+    "urlProject": "https://react-redux-toolkit-query-typescript-practice.vercel.app/",
+    "urlCode": "https://github.com/wctnz/react-redux-toolkit-query-typescript-practice",
+    "urlDesc": "https://github.com/wctnz/react-redux-toolkit-query-typescript-practice/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png",
+      "/assets/images/stek/Redux.png"
+    ]
+  },
+  {
+    "id": 25,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Webpack практика",
+    "desc": "Webpack — инструмент для сборки джаваскрипт приложений, позволяет строить зависимости между большим количеством джаваскрипт файлов, собирает все в один файл и на выходе выдает готовое приложениe. В проекте создается конфигурационный файл webpack.config.js, в котором экспортируется объект конфигурации для вебпака. В зависимости от опций в этом объекте собирается проект. Сам по себе вебпак может работать с js и json файлами, он не знает ни про css, ни про html. Расширять функционал вебпака и работать с другими типами файлов можно с помощью плагинов и лоадеров, которые указываются в конфигурационном файле. Вебпак может работать со сторонними библиотеками. Поля конфигурационного файла: mode — в каком режиме собирается проект по умолчанию (разработка или продакшен). Вебпак позволяет собирать проект в режиме разработки (mode development) и режиме продакшен (mode production). Это два встроенных режима вебпака, если их не указать, по умолчанию приложение соберется в режиме development; entry - файл который является входным для приложения; output — указывается файл, в который складывается результат работы вебпака и папка и которой будет находиться этот файл; optimization — дублирующийся код (например сторонних библиотек), который используют разные файлы приложения выносится в отдельный общий файл для оптимизации, devServer — устанавливается специальный пакет webpack-dev-server, который подключает сервер к вебпаку, автоматически обновляет страницу браузера при внесении изменений в код. Hot module replacement — страница не перезагружается, но при этом изменения видны (оптимизация), cross-env — пакет который определяет в какой операционной системе вы находитесь и самостоятельно задает системные переменные, devtool — поле в конфигурации где мы можем указать какие исходные карты нам потребуются для работы. Плагины — дополнительный функционал в вебпаке в виде классов которые мы можем добавлять к базовой конфигурации вебпака. Добавляются в поле plugins, поле plugins это массив. html-webpack-plugin — для взаимодействия с html. Создает html файл и автоматически подключает все необходимые скрипты с нужным хэшем. clean-wenbpack-plugin — удаляет файлы с неактуальными хешеми из папки сборки проекта, copy-webpack-plugin — переносит статические файлы в указанное место, mini-css-extract-plagin — позволяет выносить css в отдельный файл (но этого css писался в теге style в html-файле), terser-webpack-plugin — оптимизирует и минифицирует джаваскрипт, optimize-css-assets-webpack-plugin - оптимизирует и минифицирует джаваскрипт, webpack-bundle-analyzer — плагин позволяет проанализировать финальный bundle, помогает при оптимизации приложения. позволяет проанализировать те библиотеки которые есть у нас в приложении, предоставляет наглядную инфографику. Лоадеры — так же как плагины, предоставляют вебпаку возможность работать с другими типами файлов. Например с css. Добавляются в поле module.rules. Rules это массив. style-loader, css-loader — позволяют вебпаку работать с css файлами, file-loader — позволяет работать с различными файлами и например с изображениями (png, svg, jpg, gif), шрифтами, xml, csv, xml-loader — позволяет работать с xml файлами, csv-loader — позволяет работать с csv файлами, less-loader - позволяет работать с less файлами, sass-loader - позволяет работать с scss файлами. Babel. Webpack использует Babel для компиляции jsx и ts кода и работы с Реактом и Тайпскриптом. Babel — компилятор джаваскрипт, позволяет браузерам понимать современные конструкции джаваскрипт, которых еще нет в стандарте языка. Preset — набор определенных плагинов для babel, который для нас собрали. @babel/preset-env собирает все необходимые плагины для работы с джаваскриптом в его современном формате. То есть добавляя preset-env, вы можете не беспокоиться что у нас что то будет недоступно в джаваскрипт. @babel/preset-typescript — позволяет вебпак работать с тайпскрипт, @babel/preset-react — позволяет вебпак работать с Реакт",
+    "appFunc": "",
+    "img": [],
+    "tool": "Webpack",
+    "toolLogo": "",
+    "urlProject": "https://webpack-practice4-qvan.vercel.app/",
+    "urlCode": "https://github.com/wctnz/webpack-practice4",
+    "urlDesc": "https://github.com/wctnz/webpack-practice4/blob/master/readme.md",
+    "stek": [
+      "/assets/images/stek/Webpack.png",
+      "/assets/images/stek/Javascript.png",
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/React.png"
+    ]
+  },
+  {
+    "id": 26,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Webpack 5 практика",
+    "desc": "Webpack — инструмент для сборки джаваскрипт приложений, позволяет строить зависимости между большим количеством джаваскрипт файлов, собирает все в один файл и на выходе выдает готовое приложениe. В проекте создается конфигурационный файл webpack.config.js, в котором экспортируется объект конфигурации для вебпака. В зависимости от опций в этом объекте собирается проект. Сам по себе вебпак может работать с js и json файлами, он не знает ни про css, ни про html. Расширять функционал вебпака и работать с другими типами файлов можно с помощью плагинов и лоадеров, которые указываются в конфигурационном файле. Вебпак может работать со сторонними библиотеками. Поля конфигурационного файла: mode — в каком режиме собирается проект по умолчанию (разработка или продакшен). Вебпак позволяет собирать проект в режиме разработки (mode development) и режиме продакшен (mode production). Это два встроенных режима вебпака, если их не указать, по умолчанию приложение соберется в режиме development; entry - файл который является входным для приложения; output — указывается файл, в который складывается результат работы вебпака и папка и которой будет находиться этот файл; optimization — дублирующийся код (например сторонних библиотек), который используют разные файлы приложения выносится в отдельный общий файл для оптимизации, devServer — устанавливается специальный пакет webpack-dev-server, который подключает сервер к вебпаку, автоматически обновляет страницу браузера при внесении изменений в код. Hot module replacement — страница не перезагружается, но при этом изменения видны (оптимизация), cross-env — пакет который определяет в какой операционной системе вы находитесь и самостоятельно задает системные переменные, devtool — поле в конфигурации где мы можем указать какие исходные карты нам потребуются для работы. Плагины — дополнительный функционал в вебпаке в виде классов которые мы можем добавлять к базовой конфигурации вебпака. Добавляются в поле plugins, поле plugins это массив. html-webpack-plugin — для взаимодействия с html. Создает html файл и автоматически подключает все необходимые скрипты с нужным хэшем. clean-wenbpack-plugin — удаляет файлы с неактуальными хешеми из папки сборки проекта, copy-webpack-plugin — переносит статические файлы в указанное место, mini-css-extract-plagin — позволяет выносить css в отдельный файл (но этого css писался в теге style в html-файле), terser-webpack-plugin — оптимизирует и минифицирует джаваскрипт, optimize-css-assets-webpack-plugin - оптимизирует и минифицирует джаваскрипт, webpack-bundle-analyzer — плагин позволяет проанализировать финальный bundle, помогает при оптимизации приложения. позволяет проанализировать те библиотеки которые есть у нас в приложении, предоставляет наглядную инфографику. Лоадеры — так же как плагины, предоставляют вебпаку возможность работать с другими типами файлов. Например с css. Добавляются в поле module.rules. Rules это массив. style-loader, css-loader — позволяют вебпаку работать с css файлами, file-loader — позволяет работать с различными файлами и например с изображениями (png, svg, jpg, gif), шрифтами, xml, csv, xml-loader — позволяет работать с xml файлами, csv-loader — позволяет работать с csv файлами, less-loader - позволяет работать с less файлами, sass-loader - позволяет работать с scss файлами. Babel. Webpack использует Babel для компиляции jsx и ts кода и работы с Реактом и Тайпскриптом. Babel — компилятор джаваскрипт, позволяет браузерам понимать современные конструкции джаваскрипт, которых еще нет в стандарте языка. Preset — набор определенных плагинов для babel, который для нас собрали. @babel/preset-env собирает все необходимые плагины для работы с джаваскриптом в его современном формате. То есть добавляя preset-env, вы можете не беспокоиться что у нас что то будет недоступно в джаваскрипт. @babel/preset-typescript — позволяет вебпак работать с тайпскрипт, @babel/preset-react — позволяет вебпак работать с Реакт",
+    "appFunc": "",
+    "img": [],
+    "tool": "Webpack",
+    "toolLogo": "",
+    "urlProject": "https://webpack5-practice.vercel.app/",
+    "urlCode": "https://github.com/wctnz/webpack5-practice",
+    "urlDesc": "https://github.com/wctnz/webpack5-practice/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/Webpack.png",
+      "/assets/images/stek/Javascript.png",
+      "/assets/images/stek/React.png"
+    ]
+  },
+  {
+    "id": 27,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Jest практика",
+    "desc": "Юнит-тестирование в языке джаваскрипт на примере фреймворка Jest. В проекте 4 папки. 01_intro - базовые примеры тестирования; 02_sync - примеры тестирования синхронного кода; 03_async - примеры тестирования асинхронного кода; 04_mock - примеры использования функции mock. В практике разобраны тестирование синхронного и асинхронного кода (в частности функций), концепция test driven development. Рассмотрены встроенные сущности Jest — функции test, expect, describe, beforeEach, beforeAll, afterEach, afterAll, mock, а также метчеры. Тестирование увеличивает прогнозируемость кода. Используется для того, чтобы заранее можно было предсказать, что может сломаться. Особенно полезно, если проект разрастается, появляются новые разрабочики.",
+    "appFunc": "",
+    "img": [],
+    "tool": "Jest",
+    "toolLogo": "",
+    "urlProject": "",
+    "urlCode": "https://github.com/wctnz/jest-practice",
+    "urlDesc": "https://github.com/wctnz/jest-practice/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/Jest.png",
+      "/assets/images/stek/Javascript.png"
+    ]
+  },
+  {
+    "id": 28,
+    "label": "HEAD OF GLOBAL SALES, STRIPE",
+    "title": "Интернет магазин - Мебель",
+    "desc": "В приложении 4 страницы - главная, страница категории товаров, страница отдельного товара, страница корзины. Чтобы перейти на страницу категории товаров нужно нажать соответствующую ссылку в меню навигации в верхней части сайта. Чтобы перейти на страницу отдельного товара нажмите на карточку товара. Вы можете добавлять товары в корзину. На главной странице выполнена адаптивная верстка для десктопа, планшета и мобильного телефона.",
+    "appFunc": "",
+    "img": [
+      "/assets/images/projects/7/1.png",
+      "/assets/images/projects/7/2.png",
+      "/assets/images/projects/7/3.png",
+      "/assets/images/projects/7/4.png",
+      "/assets/images/projects/7/5.png",
+      "/assets/images/projects/7/6.png"
+    ],
+    "tool": "Html & Css",
+    "toolLogo": "",
+    "urlProject": "https://test-avion.vercel.app/",
+    "urlCode": "https://github.com/wctnz/test-avion",
+    "urlDesc": "https://github.com/wctnz/test-avion/blob/master/README.md",
+    "stek": [
+      "/assets/images/stek/Html&Css.png",
+      "/assets/images/stek/React.png",
+      "/assets/images/stek/TypeScript.png",
+      "/assets/images/stek/Redux.png"
+    ]
+  }
+]
