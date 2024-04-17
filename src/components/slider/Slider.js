@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 import IconButton from '../iconButton/IconButton';
 import "./Slider.css"
 
@@ -33,7 +34,7 @@ const Slider = ({ data }) => {
                 }
                 return 0
             })
-        }, 5000)
+        }, 4000)
         document.addEventListener("keydown", handleKeyDown);
         return () => {
             document.removeEventListener("keydown", handleKeyDown);
@@ -69,13 +70,17 @@ const Slider = ({ data }) => {
             </div>
             <div className="slider">
                 {data.map((slide, index) => (
-                    <div className={`slide${active === index ? " active" : ""}`}>
-                        <div className='slide__info'>
+                        <div
+                            className={`slide${active === index ? " active" : ""}`}
+                        >
+                             <Link key={slide.label} to={`/${ slide.tool }`} className="slide__link">
+                            {/* <div className='slide__info'>
                             <div className='slide__label'>{slide.label}</div>
                             <div className='slide__title'>{slide.title}</div>
+                        </div> */}
+                            <img src={slide.img} alt={`Slide ${index}`} />
+                            </Link>
                         </div>
-                        <img src={slide.img} alt={`Slide ${index}`} />
-                    </div>
                 ))}
             </div>
         </div>
