@@ -43,7 +43,7 @@
     "id": 3,
     "label": "HEAD OF GLOBAL SALES, STRIPE",
     "title": "Часы",
-    "desc": "Приложение Часы на Javascript.",
+    "desc": "Приложение Часы на JavaScript.",
     "appFunc": "Вы можете изменять формат часов - оставить только дату, либо только время",
     "img": [
       "/assets/images/projects/3/1.png",
@@ -377,15 +377,15 @@
   {
     "id": 19,
     "label": "HEAD OF GLOBAL SALES, STRIPE",
-    "title": "Реализация собственного Redux на Javascript (не развернуто)",
-    "desc": "Реализован собственный Redux на чистом Javascript. В частности функция createStore c методами dispatch, subscribe, getState, функция reducer. Разобраны концепции Redux: store, dispatch, action, reducer, combineReducers работа с асинхронным кодом с помощью middleware и объекта thunk, которые позволяют создавать асинхронные экшен-криэйторы, Redux devtools. Считается хорошей практикой выносить состояние из самого компонента. Во первых потому что компонентам со своими локальными состояниями сложно взаимодействовать друг с другом. Во вторых состояние в компоненте может затруднять доработку, изменение приложения, например если верстка влияет на изменение состояния. Redux выполняет роль контейнера для состояния. Позволяет вынести состояние приложения из компонента в отдельный слой (store), изменяет состояние с помощью системы редюсеров и экшенов. Компонент отслеживает изменение состояния в store (получает уведомление из store) и обновляется при изменении состояния.",
+    "title": "Реализация собственного Redux на JavaScript (не развернуто)",
+    "desc": "Реализован собственный Redux на чистом JavaScript. В частности функция createStore c методами dispatch, subscribe, getState, функция reducer. Разобраны концепции Redux: store, dispatch, action, reducer, combineReducers работа с асинхронным кодом с помощью middleware и объекта thunk, которые позволяют создавать асинхронные экшен-криэйторы, Redux devtools. Считается хорошей практикой выносить состояние из самого компонента. Во первых потому что компонентам со своими локальными состояниями сложно взаимодействовать друг с другом. Во вторых состояние в компоненте может затруднять доработку, изменение приложения, например если верстка влияет на изменение состояния. Redux выполняет роль контейнера для состояния. Позволяет вынести состояние приложения из компонента в отдельный слой (store), изменяет состояние с помощью системы редюсеров и экшенов. Компонент отслеживает изменение состояния в store (получает уведомление из store) и обновляется при изменении состояния.",
     "appFunc": "",
     "img": [],
     "tool": "Redux",
     "toolLogo": "",
     "urlProject": "",
-    "urlCode": "https://github.com/wctnz/redux-javascript-practice",
-    "urlDesc": "https://github.com/wctnz/redux-javascript-practice/blob/master/README.md",
+    "urlCode": "https://github.com/wctnz/redux-JavaScript-practice",
+    "urlDesc": "https://github.com/wctnz/redux-JavaScript-practice/blob/master/README.md",
     "stek": ["/assets/images/stek/Javascript.png"]
   },
   {
